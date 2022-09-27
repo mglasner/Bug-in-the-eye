@@ -1,8 +1,9 @@
-# *Bug in the eyes*
+# *Project title: Bug in the eyes*
 ![alt text](images/move-eyes-screenshot.png "Real time bus tracker")
 
-## About.
-    This project excercise is about dispay eyes that folow the cursor ("the bug")
+## Description.
+    This project excercise is about dispay eyes
+    that folow the cursor ("the bug")
 
 ## Installation.
     Just download de code files and load eyes.html into the browser.
@@ -11,13 +12,12 @@
     Move the mouse to arround.
     Hover over any eye to blink the eye.
 
-
 ## Roadmap of future improvements.
 1. Improve eye design.
 2. Add a nose.
 3. Add a mouth.
+4. Red eye after bug touch eye.
 
-<br/><br/>
 ## MIT License
 Copyright (c) 2022 Matías Glasner
 
