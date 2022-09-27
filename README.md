@@ -2,8 +2,9 @@
 ![alt text](images/move-eyes-screenshot.png "Real time bus tracker")
 
 ## Description.
-    This project excercise is about dispay eyes
-    that folow the cursor ("the bug")
+    The objective of this project is to show a pair of eyes
+    that follow an insect that is controlled with the mouse.
+    The goal is to practice DOM manipulation techniques.
 
 ## Installation.
     Just download de code files and load eyes.html into the browser.
